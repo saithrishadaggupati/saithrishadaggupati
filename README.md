@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey, I'm Sai Thrisha 👋
 
-<!--
-**saithrishadaggupati/saithrishadaggupati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year CS & AI student at NIT Surathkal. I interned as a 
+Business Intelligence Engineer at Amazon India — built QuickSight 
+and Tableau dashboards for senior leadership, debugged ETL pipelines, 
+and did a lot of SQL root-cause analysis on real production data.
 
-Here are some ideas to get you started:
+I also published ML research at IEEE AIDE-2025, which was a good 
+reminder that I enjoy the full spectrum from raw data to 
+communicating findings clearly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My GitHub projects are where I build and experiment outside of 
+academics — focused on analytics, dashboards, and data pipelines.
+
+**Things I work with:**
+Python · SQL · Pandas · Plotly · Streamlit · Tableau · 
+QuickSight · ETL · Data Modelling · KPI Analysis
+
+🏢 Ex-Amazon BI Intern · 📄 IEEE Published · 🎓 NIT Surathkal
+
+📫 [LinkedIn](https://linkedin.com/in/daggupatisaithrisha) | saitrishadaggupati@gmail.com
