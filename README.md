@@ -62,7 +62,7 @@ I bring a **product engineering mindset** to every layer of the stack: I do not 
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript,sql,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql,bash&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
