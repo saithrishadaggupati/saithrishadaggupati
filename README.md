@@ -36,13 +36,13 @@
 
 ## ◈ About
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=saithrishadaggupati&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A855F7&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" />
-
 I am a **Computer Science Engineer** at **NIT Karnataka (2022–2026)** with hands-on experience at **Amazon** and **NIT Karnataka's AI Research Lab**. I design and ship production-grade systems at the intersection of **data engineering**, **applied AI**, and **full-stack development**.
 
 My engineering philosophy centers on building systems that are **observable**, **fault-tolerant**, and **cost-efficient** — from real-time streaming pipelines and RAG-powered AI agents to cloud-native backends and analytical data warehouses.
 
 I bring a **product engineering mindset** to every layer of the stack: I do not just build features, I instrument them, measure them, and iterate on them with data.
+
+
 
 **Open To**
 
