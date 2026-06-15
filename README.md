@@ -375,7 +375,7 @@ Conducted applied AI research at NIT Karnataka's research lab, focused on NLP an
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saithrishadaggupati&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy](https://github-profile-trophy.vercel.app/?username=saithrishadaggupati&theme=radical&no-frame=true&no-bg=true&margin-w=8)
 
 </div>
 
