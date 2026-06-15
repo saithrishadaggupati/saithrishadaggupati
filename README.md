@@ -377,14 +377,6 @@ Conducted applied AI research at NIT Karnataka's research lab, focused on NLP an
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saithrishadaggupati&theme=github_dark" />
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saithrishadaggupati&theme=github_dark" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saithrishadaggupati&theme=github_dark" />
-
 </div>
 
 ---
