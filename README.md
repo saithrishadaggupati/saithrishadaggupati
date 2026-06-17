@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/saithrishadaggupati)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://saithrishadaggupati.netlify.app)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saitrishadaggupati/)
 &nbsp;
