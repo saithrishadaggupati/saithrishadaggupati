@@ -444,7 +444,7 @@ current_focus:
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-saithrishadaggupati-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saithrishadaggupati)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://saithrishadaggupati.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://daggupatisaithrisha.netlify.app/)
 
 </div>
 
